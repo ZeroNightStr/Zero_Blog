@@ -1,17 +1,4 @@
 
-/*去掉默认边框*/
-body,h1,h2,p,ul{
-	margin: 0;
-	padding: 0;
-}
-/*去掉默认圆点*/
-ul{
-	list-style: outside none none;
-}
-
-a{
-	text-decoration: none;
-}
 
 #nav .active a:hover , #nav #link a{
 	background-color: red;
