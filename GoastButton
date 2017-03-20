@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" type="text/css" href="css/blog.css">
+</head>
+<body>
+	<!-- 幽灵按钮 -->
+	<div class="content_content_goastbtn">
+		<img class="content_content_img" src="image/finder.png">
+		<button class="content_content_btn">
+			<span class="content_content_btn_line_heng line_top"></span>
+			<span class="content_content_btn_line_heng line_bottom"></span>
+			<span class="content_content_btn_line_shu line_left"></span>
+			<span class="content_content_btn_line_shu line_right"></span>
+			nihao</button>
+		</div>
+	</div>
+</body>
